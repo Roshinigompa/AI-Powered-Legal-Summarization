@@ -9,4 +9,7 @@ nltk
 requests
 torch
 torchvision
+transformers
+torch
+
 
