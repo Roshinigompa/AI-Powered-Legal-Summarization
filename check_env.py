@@ -1,2 +1,5 @@
 import sys
-print(sys.executable)
+import streamlit as st
+
+
+st.write(sys.executable)
